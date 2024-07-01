@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello
+Welcome to my profile, My name is Mr. Mac, and i'm developing things for fun
 
-<!--
-**Mr-Mac0/Mr-Mac0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages that i know<br>
+![Known Languages](https://skillicons.dev/icons?i=ts,js,html,cs,cpp,python,java,lua&theme=dark)
 
-Here are some ideas to get you started:
+### Languages that i'm still learning
+![Learning](https://skillicons.dev/icons?i=go,ruby&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My/Collab Projects
+
+- [9nite.net](https://9nite.net) (founder of this project) but still NOT FINISHED
+- [fnbr.me](https://fnbr.me) (mainly on [Item Shop](https://fnbr.me/shop))
+
+# Where to contact me?
+
+#### Email: info@9nite.net <br>
+#### Discord: @mr.mac00
