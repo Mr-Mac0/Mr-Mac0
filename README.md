@@ -2,10 +2,10 @@
 Welcome to my profile, My name is Mr. Mac, and i'm developing things for fun
 
 ### Languages that i know<br>
-![Known Languages](https://skillicons.dev/icons?i=ts,js,html,cs,cpp,python,java,lua&theme=dark)
+![Known Languages](https://skillicons.dev/icons?i=ts,js,html,cs,cpp,python,java,lua,go&theme=dark)
 
 ### Languages that i'm still learning
-![Learning](https://skillicons.dev/icons?i=go,ruby&theme=dark)
+![Learning](https://skillicons.dev/icons?i=ruby,rust&theme=dark)
 
 
 ## My/Collab Projects
